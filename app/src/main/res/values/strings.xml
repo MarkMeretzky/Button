@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Button</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="button_text">Press in case of emergency.</string>
+    <string name="action_settings">Settings</string>
+</resources>
